@@ -1,0 +1,161 @@
+package kmeans
+
+import java.util.concurrent._
+import scala.collection._
+import org.scalatest.FunSuite
+import org.junit.runner.RunWith
+import org.scalatest.junit.JUnitRunner
+import common._
+import scala.math._
+
+object KM extends KMeans
+import KM._
+
+@RunWith(classOf[JUnitRunner])
+class KMeansSuite extends FunSuite {
+
+  def checkClassify(points: GenSeq[Point], means: GenSeq[Point], expected: GenMap[Point, GenSeq[Point]]) {
+    assert(classify(points, means) == expected,
+      s"classify($points, $means) should equal to $expected")
+  }
+
+  test("performacne") {
+    val kMeans = new KMeans()
+    val numPoints = 80000
+   // val eta = 0.01
+    val k = 32
+    val points = kMeans.generatePoints(k, numPoints)
+    val means = kMeans.initializeMeans(k, points)
+
+    println("seq:");
+    kMeans.classify(points, means)
+    //kMeans.kMeans(parPoints, parMeans, eta)
+    println("par:");
+    kMeans.classify(points.par, means.par)
+     println("seq:");
+    kMeans.classify(points, means)
+    //kMeans.kMeans(parPoints, parMeans, eta)
+    println("par:");
+    kMeans.classify(points.par, means.par)
+  }
+
+  //  test("'classify should work for empty 'points' and empty 'means'") {
+  //    val points: GenSeq[Point] = IndexedSeq()
+  //    val means: GenSeq[Point] = IndexedSeq()
+  //    val expected = GenMap[Point, GenSeq[Point]]()
+  //    checkClassify(points, means, expected)
+  //  }
+  //
+  //  test("'classify' should work for empty 'points' and 'means' == GenSeq(Point(1,1,1))") {
+  //    val points: GenSeq[Point] = IndexedSeq()
+  //    val mean = new Point(1, 1, 1)
+  //    val means: GenSeq[Point] = IndexedSeq(mean)
+  //    val expected = GenMap[Point, GenSeq[Point]]((mean, GenSeq()))
+  //    checkClassify(points, means, expected)
+  //  }
+  //
+  //  test("'classify' should work for 'points' == GenSeq((1, 1, 0), (1, -1, 0), (-1, 1, 0), (-1, -1, 0)) and 'means' == GenSeq((0, 0, 0))") {
+  //    val p1 = new Point(1, 1, 0)
+  //    val p2 = new Point(1, -1, 0)
+  //    val p3 = new Point(-1, 1, 0)
+  //    val p4 = new Point(-1, -1, 0)
+  //    val points: GenSeq[Point] = IndexedSeq(p1, p2, p3, p4)
+  //    val mean = new Point(0, 0, 0)
+  //    val means: GenSeq[Point] = IndexedSeq(mean)
+  //    val expected = GenMap((mean, GenSeq(p1, p2, p3, p4)))
+  //    checkClassify(points, means, expected)
+  //  }
+  //
+  //  test("2") {
+  //    val p1 = new Point(1, 1, 0)
+  //    val p2 = new Point(1, -1, 0)
+  //    val p3 = new Point(-1, 1, 0)
+  //    val p4 = new Point(-1, -1, 0)
+  //    val p21 = new Point(4, 4, 5)
+  //    val p22 = new Point(5, 6, 6)
+  //    val points: GenSeq[Point] = IndexedSeq(p21, p2, p3, p4, p1, p22)
+  //    val mean = new Point(0, 0, 0)
+  //    val mean2 = new Point(4, 5, 3)
+  //
+  //    val means: GenSeq[Point] = IndexedSeq(mean, mean2)
+  //    println(classify(points.par, means.par))
+  //    //
+  //    var newMeans = update(classify(points.par, means.par), means.par)
+  //    println(newMeans)
+  //    newMeans = update(classify(points.par, newMeans.par), newMeans.par)
+  //    println(newMeans)
+  //    newMeans = update(classify(points.par, newMeans.par), newMeans.par)
+  //    println(newMeans)
+  //    newMeans = update(classify(points.par, newMeans.par), newMeans.par)
+  //    println(newMeans)
+  //    newMeans = update(classify(points.par, newMeans.par), newMeans.par)
+  //    println(newMeans)
+  //    newMeans = update(classify(points.par, newMeans.par), newMeans.par)
+  //    println(newMeans)
+  //    var reallyNewMeans = update(classify(points.par, newMeans.par), newMeans.par)
+  //    println(reallyNewMeans)
+  //    println(converged(0.01d)(reallyNewMeans.par, newMeans.par))
+  //
+  //    println(kMeans(points.par, means.par, 0.01d))
+  //
+  //  }
+  //  //
+  //  //  test("3") {
+  //  //    val str1 = "1";
+  //  //    val str2 = "11";
+  //  //    val str3 = "2";
+  //  //
+  //  //    println(c(GenSeq[String](str1, str2, str3).par, GenSeq[String]("1", "2").par));
+  //  //
+  //  //  }
+  //
+  //  def c(points: GenSeq[String], means: GenSeq[String]): GenMap[String, GenSeq[String]] = {
+  //
+  //    points.aggregate(Map[String, GenSeq[String]]())(
+  //      (map: Map[String, GenSeq[String]], point: String) => { val mean = k(point, means); map + (mean -> (map.getOrElse(mean, GenSeq[String]()) ++ GenSeq[String](point))) },
+  //
+  //      (map1: Map[String, GenSeq[String]], map2: Map[String, GenSeq[String]]) => {
+  //        println(map1, map2)
+  //        (map1.keySet ++ map2.keySet).foldLeft(Map[String, GenSeq[String]]()) {
+  //          (result, k) =>
+  //            {
+  //              println("KKK:" + k); result + (k -> (map1.getOrElse(k, GenSeq[String]()) ++ map2.getOrElse(k, GenSeq[String]())))
+  //            }
+  //        }
+  //      });
+  //  }
+  //
+  //  def k(str: String, means: GenSeq[String]): String = {
+  //    println(str)
+  //    means.filter { x => str.startsWith(x) }.seq(0)
+  //  }
+  //
+  //    test("'classify' should work for 'points' == GenSeq((1, 1, 0), (1, -1, 0), (-1, 1, 0), (-1, -1, 0)) and 'means' == GenSeq((1, 0, 0), (-1, 0, 0))") {
+  //      val p1 = new Point(1, 1, 0)
+  //      val p2 = new Point(1, -1, 0)
+  //      val p3 = new Point(-1, 1, 0)
+  //      val p4 = new Point(-1, -1, 0)
+  //      val points: GenSeq[Point] = IndexedSeq(p1, p2, p3, p4)
+  //      val mean1 = new Point(1, 0, 0)
+  //      val mean2 = new Point(-1, 0, 0)
+  //      val means: GenSeq[Point] = IndexedSeq(mean1, mean2)
+  //      val expected = GenMap((mean1, GenSeq(p1, p2)), (mean2, GenSeq(p3, p4)))
+  //      checkClassify(points, means, expected)
+  //    }
+  //  
+  //    def checkParClassify(points: GenSeq[Point], means: GenSeq[Point], expected: GenMap[Point, GenSeq[Point]]) {
+  //      assert(classify(points.par, means.par) == expected,
+  //        s"classify($points par, $means par) should equal to $expected")
+  //    }
+  //  
+  //    test("'classify with data parallelism should work for empty 'points' and empty 'means'") {
+  //      val points: GenSeq[Point] = IndexedSeq()
+  //      val means: GenSeq[Point] = IndexedSeq()
+  //      val expected = GenMap[Point,GenSeq[Point]]()
+  //      checkParClassify(points, means, expected)
+  //    }
+
+}
+
+
+  

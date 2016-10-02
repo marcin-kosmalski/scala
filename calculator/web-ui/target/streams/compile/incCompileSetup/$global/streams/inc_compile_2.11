@@ -1,0 +1,658 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -Xplugin:C:\Users\marcin\.ivy2\cache\org.scala-js\scalajs-compiler_2.11.6\jars\scalajs-compiler_2.11.6-0.6.2.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+67 items
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$1$$anonfun$apply$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$2.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Divide$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Divide.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Expr.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Literal$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Literal.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Minus$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Minus.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Plus$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Plus.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Ref$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Ref.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Times$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Times.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeDelta$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeSolutions$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal$$anonfun$$lessinit$greater$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$apply$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$2.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Var$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Var.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$2.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$3.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$tweetRemainingCharsCount$1.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$.class
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$2$$anonfun$apply$2.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$2.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$3.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$4.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$5.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$6.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$7.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$8.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$9.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$doubleValueOfInput$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$exprOfInput$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$inputValueSignal$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$parseSimple$1$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setup2ndOrderPolynomial$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setup2ndOrderPolynomial$2.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupTweetMeasurer$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupTweetMeasurer$2.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$textAreaValueSignal$1.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$.class
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI.class
+binary dependencies:
+12 items
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\marcin\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\jars\scalajs-dom_sjs0.6_2.11-0.8.0.jar
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\marcin\.ivy2\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.2.jar
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+67 items
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1$$anonfun$apply$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$2
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Divide
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Divide$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Expr
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Literal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Literal$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Minus
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Minus$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Plus
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Plus$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Ref
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Ref$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Times
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Times$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$$anonfun$computeDelta$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$$anonfun$computeSolutions$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal$$anonfun$$lessinit$greater$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$apply$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$computeValue$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$computeValue$2
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.Var
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator.Var$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$colorForRemainingCharsCount$1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$colorForRemainingCharsCount$2
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$colorForRemainingCharsCount$3
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$tweetRemainingCharsCount$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$2
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$2$$anonfun$apply$2
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$3
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$4
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$5
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$6
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$7
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$8
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$9
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$doubleValueOfInput$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$exprOfInput$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$inputValueSignal$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$parseSimple$1$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setup2ndOrderPolynomial$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setup2ndOrderPolynomial$2
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupTweetMeasurer$1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupTweetMeasurer$2
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$textAreaValueSignal$1
+used names:
+328 items
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> &&
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> *
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> +
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> -
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> /
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> <init>
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> ==
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> AbstractFunction1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> AbstractFunction2
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> AnyRef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Calculator
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Divide
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Double
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Expr
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Literal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Map
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Minus
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> None
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Plus
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Predef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Product
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Ref
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> ScalaRunTime
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Serializable
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Set
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Signal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Statics
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> String
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Times
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> Var
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> _1
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> _2
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> _hashCode
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> _toString
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> a
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> apply
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> asInstanceOf
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> b
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calcVal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> calculator
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> canBuildFrom
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> contains
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> doubleHash
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> eq
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> eval
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> expr
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> exprSignal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> finalizeHash
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> fold
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> fromRef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> get
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> immutable
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> isInstanceOf
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> keyValue
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> map
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> mix
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> name
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> namedExpressions
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> references
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> runtime
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> scala
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> toString
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> typedProductIterator
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> v
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> ||
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> *
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> +
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> -
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> /
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> <init>
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> AnyRef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> Double
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> Math
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> Polynomial
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> Predef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> Set
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> Signal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> a
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> apply
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> b
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> c
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> calculator
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> delta
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> java
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> lang
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> scala
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> sqrt
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> unary_-
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> +
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> -
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> ::
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> <byname>
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> <init>
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> ???
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> AnyRef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> DynamicVariable
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> Function0
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> List
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> Nil
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> NoSignal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> Nothing
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> Predef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> Set
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> Signal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> T
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> Unit
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> Var
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> _root_
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> apply
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> assert
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> calculator
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> caller
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> computeValue
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> contains
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> expr
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> foreach
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> immutable
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> myExpr
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> myExpr_=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> myValue
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> myValue_=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> newValue
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> obs
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> observed
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> observed_=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> observers
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> observers_=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> package
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> scala
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> sig
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> unary_!
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> update
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> util
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> value
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> withValue
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> &&
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> -
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> <
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> <init>
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> >=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> AnyRef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> Character
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> Int
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> Predef
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> Signal
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> String
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> TweetLength
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> apply
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> augmentString
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> calculator
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> count
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> fallbackStringCanBuildFrom
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> init
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> isEmpty
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> isSurrogatePair
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> java
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> lang
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> length
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> remainingCharsCount
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> scala
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> tail
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> text
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> tupled
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> tweetLength
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> tweetText
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> wrapString
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> zip
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> !=
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> $conforms
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> &&
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> +
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> <=
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> <init>
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ==
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> >=
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> A
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Any
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Array
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Calculator
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> CalculatorUI
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ClassTag
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ClearCssClassRegExp
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Double
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Element
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Event
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Expr
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Function0
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> IllegalArgumentException
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> IndexedSeq
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Input
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> JSApp
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> JSStringOps
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> List
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> None
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> NumberFormatException
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Option
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Polynomial
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Predef
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> RegExp
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> SetTimeoutHandle
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Signal
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Span
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> String
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> StringContext
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> TextArea
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Throwable
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> TweetLength
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Unit
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Var
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> _1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> _2
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> _3
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> _root_
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> a
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> aText
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> addEventListener
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> apply
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> asInstanceOf
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> assert
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> augmentString
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> b
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> bText
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> backgroundColor_=
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> c
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> canBuildFrom
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> className
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> className_=
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> clearTimeout
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> color
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> colorForRemainingCharsCount
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> color_=
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> computeDelta
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> computeSolutions
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> computeValues
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> dehighlightTimeout
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> delta
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> deltaArea
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> document
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> dom
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> doubleValueOfInput
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> doubleValues
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> element
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> elementById
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> elementValueSignal
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> enableJSStringOps
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> exprOfInput
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> exprs
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> filter
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> forall
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> foreach
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> fromFunction1
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> get
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> getElementById
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> getValue
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> html
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> i
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> id
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ids
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> immutable
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> input
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> inputValueSignal
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> inputs
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> intWrapper
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> isEmpty
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> js
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> jsReplace
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> keySet
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> l
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> lengthCompare
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> map
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> materializeClassTag
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> name
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> namedExpressions
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> namedValues
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> names
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ne
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> newVal
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> onChange
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> op
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> org
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> package
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> parent
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> parentElement
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> parseExpr
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> parseSimple
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> prevVal
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> printStackTrace
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> raw
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> refArrayOps
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> remainingCharsArea
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> remainingCount
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> s
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> scala
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> scalajs
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> setTimeout
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> setup2ndOrderPolynomial
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> setupCalculator
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> setupTweetMeasurer
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> solutions
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> solutionsArea
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> span
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> split
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> style
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> text
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> textArea
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> textAreaID
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> textAreaValueSignal
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> textContent_=
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> th
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> timers
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> toChar
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> toDouble
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> toMap
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> toString
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> trim
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> tweetRemainingCharsCount
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> tweetText
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> unapplySeq
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> unary_!
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> unchecked
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> until
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> update
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> value
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> valueSignal
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> withFilter
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> x
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> zip
+product stamps:
+67 items
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$1$$anonfun$apply$1.class -> lastModified(1472829939880)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$1.class -> lastModified(1472829939873)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$1.class -> lastModified(1472829939883)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$2.class -> lastModified(1472829939888)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$.class -> lastModified(1472829939859)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator.class -> lastModified(1472829939776)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$1.class -> lastModified(1472753740661)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$2$$anonfun$apply$2.class -> lastModified(1472753740667)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$2.class -> lastModified(1472753740664)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$3.class -> lastModified(1472753740670)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$4.class -> lastModified(1472753740674)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$5.class -> lastModified(1472753740677)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$6.class -> lastModified(1472753740680)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$7.class -> lastModified(1472753740683)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$8.class -> lastModified(1472753740686)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$9.class -> lastModified(1472753740689)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$doubleValueOfInput$1.class -> lastModified(1472753740693)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$exprOfInput$1.class -> lastModified(1472753740696)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$inputValueSignal$1.class -> lastModified(1472753740699)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$parseSimple$1$1.class -> lastModified(1472753740702)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setup2ndOrderPolynomial$1.class -> lastModified(1472753740705)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setup2ndOrderPolynomial$2.class -> lastModified(1472753740707)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$1.class -> lastModified(1472753740710)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1472753740721)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2.class -> lastModified(1472753740766)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1.class -> lastModified(1472753740718)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2.class -> lastModified(1472753740714)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupTweetMeasurer$1.class -> lastModified(1472753740768)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupTweetMeasurer$2.class -> lastModified(1472753740771)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$textAreaValueSignal$1.class -> lastModified(1472753740774)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$.class -> lastModified(1472753740658)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI.class -> lastModified(1472753740639)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Divide$.class -> lastModified(1472829939895)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Divide.class -> lastModified(1472829939915)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Expr.class -> lastModified(1472829939919)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Literal$.class -> lastModified(1472829939939)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Literal.class -> lastModified(1472829939933)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Minus$.class -> lastModified(1472829939957)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Minus.class -> lastModified(1472829939951)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal$$anonfun$$lessinit$greater$1.class -> lastModified(1472753740815)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal$.class -> lastModified(1472753740812)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal.class -> lastModified(1472753740810)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Plus$.class -> lastModified(1472829939975)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Plus.class -> lastModified(1472829939971)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeDelta$1.class -> lastModified(1472794527410)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeSolutions$1.class -> lastModified(1472794527414)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$.class -> lastModified(1472794527404)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial.class -> lastModified(1472794527396)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Ref$.class -> lastModified(1472829939993)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Ref.class -> lastModified(1472829939987)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$1.class -> lastModified(1472753740871)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$apply$1.class -> lastModified(1472753740889)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$1.class -> lastModified(1472753740893)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$2.class -> lastModified(1472753740897)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$.class -> lastModified(1472753740849)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Signal.class -> lastModified(1472753740854)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Times$.class -> lastModified(1472829940010)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Times.class -> lastModified(1472829940005)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class -> lastModified(1472794527422)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$1.class -> lastModified(1472794527426)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$2.class -> lastModified(1472794527428)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$3.class -> lastModified(1472794527430)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$tweetRemainingCharsCount$1.class -> lastModified(1472794527432)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$.class -> lastModified(1472794527420)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength.class -> lastModified(1472794527416)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Var$.class -> lastModified(1472753740928)
+C:\development\workspaces\scala_workspace\calculator\web-ui\target\scala-2.11\classes\calculator\Var.class -> lastModified(1472753740925)
+source stamps:
+5 items
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> hash(e01e00beb5abc49cdc33d06bc35ad014d97244fe)
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> hash(d1c7bf5fca19d174193c5fa72a46d4d43e88ec66)
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> hash(f5a6296731e63462e7bc526b412634843c732002)
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> hash(c1bf84f60fac1cd61f11786815493be7ed836b88)
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> hash(5283065eab3ad32c108798e2226fd8103e0a21c6)
+binary stamps:
+4 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> lastModified(1471897651971)
+C:\Users\marcin\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\jars\scalajs-dom_sjs0.6_2.11-0.8.0.jar -> lastModified(1422870978000)
+C:\Users\marcin\.ivy2\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.2.jar -> lastModified(1426583986000)
+C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+4 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> java.lang.Object
+C:\Users\marcin\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\jars\scalajs-dom_sjs0.6_2.11-0.8.0.jar -> org.scalajs.dom.raw.HTMLTextAreaElement
+C:\Users\marcin\.ivy2\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.2.jar -> scala.scalajs.js.JSApp
+C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> scala.runtime.AbstractFunction2
+internal apis:
+5 items
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAv7cd3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLZ2ElR0AA1jb21wdXRlVmFsdWVzc3EAfgAMOU4zbHQABm5vdGlmeXNxAH4ADBtJ0QJ0AARuYW1lc3EAfgAMtgS3dnQABHdhaXRzcQB+AAyknsqEdAAOY29weSRkZWZhdWx0JDJzcQB+AAyo0Gq8dAANJGFzSW5zdGFuY2VPZnNxAH4ADHA4H8N0AAxwcm9kdWN0QXJpdHlzcQB+AAzas7drdAAGZXF1YWxzc3EAfgAMeX4QJ3QAB2NhbGNWYWxzcQB+AAy9TJ+fdAAMYXNJbnN0YW5jZU9mc3EAfgAMF+44F3QABEV4cHJzcQB+AAztQ916dAAGRGl2aWRlc3EAfgAMRWz0E3QADHN5bmNocm9uaXplZHNxAH4ADNP/QHN0AAFhc3EAfgAMmcgBWnQADSRpc0luc3RhbmNlT2ZzcQB+AAwm8nvZdAAHTGl0ZXJhbHNxAH4ADMc9tDt0AAhjYW5FcXVhbHNxAH4ADNm6wgZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMha4rsHQACW5vdGlmeUFsbHNxAH4ADE5+l510AARQbHVzc3EAfgAM540PKnQADGlzSW5zdGFuY2VPZnNxAH4ADNazIt90AARldmFsc3EAfgAMeQh+w3QABU1pbnVzc3EAfgAMJYJwkHQAAXZzcQB+AAz5UXjKdAAGPGluaXQ+c3EAfgAM+QKHxnQAAWJzcQB+AAwRF1grdAACPT1zcQB+AAxCAt7bdAAFY2xvbmVzcQB+AAzdfH/ZdAAQZ2V0UmVmZXJlbmNlRXhwcnNxAH4ADEg1KqV0AARjb3B5c3EAfgAMfuN2OXQACHRvU3RyaW5nc3EAfgAMYf7xRXQAAiE9c3EAfgAM8jgtK3QABVRpbWVzc3EAfgAMJKZ+V3QACGdldENsYXNzc3EAfgAM2bwL1HQADmNvcHkkZGVmYXVsdCQxc3EAfgAMIVBL43QAAm5lc3EAfgAMpGhhEXQAAmVxc3EAfgAMDv8QnXQACkNhbGN1bGF0b3JzcQB+AAx6/3pkdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM3n1KknQAAiMjc3EAfgAMffevWXQACGZpbmFsaXplc3EAfgAM5R/Is3QAA1JlZnNxAH4ADHNXZQ50AA5wcm9kdWN0RWxlbWVudHNxAH4ADHCsIN10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAhzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAl0AA9jYWxjdWxhdG9yLkV4cHJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AhwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ab0wACWluaGVyaXRlZHEAfgBvTAAHcGFyZW50c3EAfgBveHEAfgCOc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AjXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ApnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ap3NxAH4AmnQAA0FueXNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZ0AAVzY2FsYXEAfgCtcHBzcQB+AGxxAH4AeXVxAH4AegAAAABzcQB+AHwEdAASY2FsY3VsYXRvci5MaXRlcmFsdXEAfgB/AAAAAHEAfgCDdXEAfgCFAAAAAHNxAH4AhwFxAH4Aj3BzcQB+AIcBc3EAfgCRc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVxAH4AmAAAAAdzcQB+AJp0AAxTZXJpYWxpemFibGVzcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmcQB+ALRxAH4ArXNxAH4AmnEAfgDFc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCpc3EAfgCmdAACaW9xAH4ArXNxAH4AmnQAB1Byb2R1Y3RxAH4AxnNxAH4AmnQABkVxdWFsc3EAfgDGc3EAfgCadAAERXhwcnNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZ0AApjYWxjdWxhdG9ycQB+AK1zcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AqXNxAH4ApnEAfgCrcQB+AK1zcQB+AJpxAH4Ar3EAfgDGcHBzcQB+AGxxAH4AeXVxAH4AegAAAABzcQB+AHwEdAAOY2FsY3VsYXRvci5SZWZ1cQB+AH8AAAAAcQB+AIN1cQB+AIUAAAAAc3EAfgCHAXEAfgCPcHNxAH4AhwFzcQB+AJFzcQB+AIcBdXEAfgBqAAAAAHBzcQB+AIcBdXEAfgBqAAAAAHBzcQB+AIcBdXEAfgCYAAAAB3NxAH4AmnEAfgDFc3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnEAfgC0cQB+AK1zcQB+AJpxAH4AxXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AqXNxAH4ApnQAAmlvcQB+AK1zcQB+AJpxAH4A0nEAfgDzc3EAfgCadAAGRXF1YWxzcQB+APNzcQB+AJpxAH4A1nNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZ0AApjYWxjdWxhdG9ycQB+AK1zcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AqXNxAH4ApnEAfgCrcQB+AK1zcQB+AJpxAH4Ar3EAfgDzcHBzcQB+AGxxAH4AeXVxAH4AegAAAABzcQB+AHwEdAAPY2FsY3VsYXRvci5QbHVzdXEAfgB/AAAAAHEAfgCDdXEAfgCFAAAAAHNxAH4AhwFxAH4Aj3BzcQB+AIcBc3EAfgCRc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVxAH4AmAAAAAdzcQB+AJpxAH4AxXNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AtHEAfgCtc3EAfgCacQB+AMVzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+AKlzcQB+AKZ0AAJpb3EAfgCtc3EAfgCacQB+ANJxAH4BHnNxAH4AmnQABkVxdWFsc3EAfgEec3EAfgCacQB+ANZzcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmdAAKY2FsY3VsYXRvcnEAfgCtc3EAfgCacQB+AJ1zcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+AKlzcQB+AKZxAH4Aq3EAfgCtc3EAfgCacQB+AK9xAH4BHnBwc3EAfgBscQB+AHl1cQB+AHoAAAAAc3EAfgB8BHQAEGNhbGN1bGF0b3IuTWludXN1cQB+AH8AAAAAcQB+AIN1cQB+AIUAAAAAc3EAfgCHAXEAfgCPcHNxAH4AhwFzcQB+AJFzcQB+AIcBdXEAfgBqAAAAAHBzcQB+AIcBdXEAfgBqAAAAAHBzcQB+AIcBdXEAfgCYAAAAB3NxAH4AmnEAfgDFc3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnEAfgC0cQB+AK1zcQB+AJpxAH4AxXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AqXNxAH4ApnQAAmlvcQB+AK1zcQB+AJpxAH4A0nEAfgFJc3EAfgCadAAGRXF1YWxzcQB+AUlzcQB+AJpxAH4A1nNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZ0AApjYWxjdWxhdG9ycQB+AK1zcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AqXNxAH4ApnEAfgCrcQB+AK1zcQB+AJpxAH4Ar3EAfgFJcHBzcQB+AGxxAH4AeXVxAH4AegAAAABzcQB+AHwEdAAQY2FsY3VsYXRvci5UaW1lc3VxAH4AfwAAAABxAH4Ag3VxAH4AhQAAAABzcQB+AIcBcQB+AI9wc3EAfgCHAXNxAH4AkXNxAH4AhwF1cQB+AGoAAAAAcHNxAH4AhwF1cQB+AGoAAAAAcHNxAH4AhwF1cQB+AJgAAAAHc3EAfgCacQB+AMVzcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmcQB+ALRxAH4ArXNxAH4AmnEAfgDFc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCpc3EAfgCmdAACaW9xAH4ArXNxAH4AmnEAfgDScQB+AXRzcQB+AJp0AAZFcXVhbHNxAH4BdHNxAH4AmnEAfgDWc3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnQACmNhbGN1bGF0b3JxAH4ArXNxAH4AmnEAfgCdc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCpc3EAfgCmcQB+AKtxAH4ArXNxAH4AmnEAfgCvcQB+AXRwcHNxAH4AbHEAfgB5dXEAfgB6AAAAAHNxAH4AfAR0ABFjYWxjdWxhdG9yLkRpdmlkZXVxAH4AfwAAAABxAH4Ag3VxAH4AhQAAAABzcQB+AIcBcQB+AI9wc3EAfgCHAXNxAH4AkXNxAH4AhwF1cQB+AGoAAAAAcHNxAH4AhwF1cQB+AGoAAAAAcHNxAH4AhwF1cQB+AJgAAAAHc3EAfgCacQB+AMVzcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmcQB+ALRxAH4ArXNxAH4AmnEAfgDFc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCpc3EAfgCmdAACaW9xAH4ArXNxAH4AmnEAfgDScQB+AZ9zcQB+AJp0AAZFcXVhbHNxAH4Bn3NxAH4AmnEAfgDWc3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnQACmNhbGN1bGF0b3JxAH4ArXNxAH4AmnEAfgCdc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCpc3EAfgCmcQB+AKtxAH4ArXNxAH4AmnEAfgCvcQB+AZ9wcHNxAH4AbHEAfgB5dXEAfgB6AAAAAHNxAH4AfAB0ABVjYWxjdWxhdG9yLkNhbGN1bGF0b3J1cQB+AH8AAAAAfnEAfgCBdAAGTW9kdWxldXEAfgCFAAAAAHNxAH4AhwFxAH4Aj3BzcQB+AIcBc3EAfgCRc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVxAH4AmAAAAAJzcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AqXNxAH4ApnEAfgCrcQB+AK1zcQB+AJpxAH4Ar3NxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AtHEAfgCtcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFW64FDXnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFVDOlxkZXZlbG9wbWVudFx3b3Jrc3BhY2VzXHNjYWxhX3dvcmtzcGFjZVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4B4AvrWrxJzcM9Brw1rQFNlyRP4=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBmvcoLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPHdxwp0AAZub3RpZnlzcQB+AAyPiLIadAAEd2FpdHNxAH4ADCGybFd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMaa+zrHQABmVxdWFsc3NxAH4ADDF0Wz10AAxhc0luc3RhbmNlT2ZzcQB+AAz77txydAAMc3luY2hyb25pemVkc3EAfgAMom9zHHQADSRpc0luc3RhbmNlT2ZzcQB+AAzUbSSrdAAMY29tcHV0ZURlbHRhc3EAfgAMYHA20nQACW5vdGlmeUFsbHNxAH4ADGb+T9R0ABBjb21wdXRlU29sdXRpb25zc3EAfgAMNe0kdHQADGlzSW5zdGFuY2VPZnNxAH4ADMkr9lF0AAI9PXNxAH4ADHUkybt0AAVjbG9uZXNxAH4ADMEU3Al0AApQb2x5bm9taWFsc3EAfgAMf6/yF3QACHRvU3RyaW5nc3EAfgAMpFYPsHQAAiE9c3EAfgAM8uOjJnQACGdldENsYXNzc3EAfgAMwUqwf3QAAm5lc3EAfgAMyFsmJXQAAmVxc3EAfgAM7unh2nQAAiMjc3EAfgAMClux1XQACGZpbmFsaXplc3EAfgAMQk02KXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFWNhbGN1bGF0b3IuUG9seW5vbWlhbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBic3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFW6WT/8HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFVDOlxkZXZlbG9wbWVudFx3b3Jrc3BhY2VzXHNjYWxhX3dvcmtzcGFjZVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0ce/X8oZ0XQZPF+nKkbU1D6I7GY=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCcrnOcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMgm1u10AAlvYnNlcnZlcnNzcQB+AAwNwvZRdAAGbm90aWZ5c3EAfgAMJ20wkXQABHdhaXRzcQB+AAzXche6dAANJGFzSW5zdGFuY2VPZnNxAH4ADEkSKEl0AANWYXJzcQB+AAzYZGUgdAAGU2lnbmFsc3EAfgAMPZGWgHQABmVxdWFsc3NxAH4ADH9wuWp0AAxhc0luc3RhbmNlT2ZzcQB+AAySrf1cdAAMc3luY2hyb25pemVkc3EAfgAMfl2vW3QADSRpc0luc3RhbmNlT2ZzcQB+AAzXskNIdAAJbm90aWZ5QWxsc3EAfgAMiJsE43QADGlzSW5zdGFuY2VPZnNxAH4ADOPjrVR0AAhOb1NpZ25hbHNxAH4ADL0t7AN0AAY8aW5pdD5zcQB+AAx0QuKGdAAFYXBwbHlzcQB+AAwq2znudAACPT1zcQB+AAzcW5MndAAFY2xvbmVzcQB+AAyuIZRFdAAIdG9TdHJpbmdzcQB+AAygwr9edAACIT1zcQB+AAzCJgP9dAAMY29tcHV0ZVZhbHVlc3EAfgAMJxW6pXQACGdldENsYXNzc3EAfgAMolWCoHQABnVwZGF0ZXNxAH4ADMH9GTF0AAJuZXNxAH4ADKU5W790AAZteUV4cHJzcQB+AAyp3IITdAAHbXlWYWx1ZXNxAH4ADO355410AAJlcXNxAH4ADHj8BPZ0AAIjI3NxAH4ADLuXmDB0AAhmaW5hbGl6ZXNxAH4ADJp7oCh0AAZjYWxsZXJzcQB+AAwBJX6TdAAIaGFzaENvZGVzcQB+AAwWZUQkdAAIb2JzZXJ2ZWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARY2FsY3VsYXRvci5TaWduYWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AWkwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AFdMAAp1cHBlckJvdW5kcQB+AGhMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AGAAAAAAdAATY2FsY3VsYXRvci5TaWduYWwuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXEAfgBlAAAAAHNxAH4AbXQAA0FueXEAfgB1fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4AhXQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ajnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4Ab3NxAH4AjQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBtdAAGT2JqZWN0c3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3QABGphdmFzcQB+AHt0AARsYW5ncQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAOY2FsY3VsYXRvci5WYXJ1cQB+AGUAAAABc3EAfgBndXEAfgBgAAAAAHQAEGNhbGN1bGF0b3IuVmFyLlRxAH4AcXVxAH4AZQAAAABxAH4AgnEAfgCGcQB+AIl1cQB+AIsAAAAAc3EAfgCNAHBzcQB+AJJxAH4AlXNxAH4AjQFzcQB+AJdzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgCeAAAAA3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ab3NxAH4AbXQABlNpZ25hbHNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AApjYWxjdWxhdG9ycQB+AIB1cQB+AJ4AAAABc3IAFnhzYnRpLmFwaS5QYXJhbWV0ZXJSZWY/2OM5ACxzsAIAAUwAAmlkcQB+AA14cQB+AG90ABBjYWxjdWxhdG9yLlZhci5Uc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQADmNhbGN1bGF0b3IuVmFydXEAfgBlAAAAAH5xAH4AiHQABk1vZHVsZXVxAH4AiwAAAABzcQB+AI0AcHNxAH4AknEAfgCVc3EAfgCNAXNxAH4Al3NxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJ4AAAACc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAE2NhbGN1bGF0b3IuTm9TaWduYWx1cQB+AGUAAAAAcQB+AOB1cQB+AIsAAAAAc3EAfgCNAHBzcQB+AJJxAH4AlXNxAH4AjQFzcQB+AJdzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgCeAAAAA3NxAH4AwnNxAH4AbXQABlNpZ25hbHNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AApjYWxjdWxhdG9ycQB+AIB1cQB+AJ4AAAABc3EAfgBtcQB+AHJzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHNxAH4AbXEAfgChc3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3EAfgCmc3EAfgB7cQB+AKhxAH4AgHNxAH4AbXEAfgCDcQB+ARJwcHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0ABFjYWxjdWxhdG9yLlNpZ25hbHVxAH4AZQAAAABxAH4A4HVxAH4AiwAAAABzcQB+AI0AcHNxAH4AknEAfgCVc3EAfgCNAXNxAH4Al3NxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJ4AAAACc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub2Ybx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABVQzpcZGV2ZWxvcG1lbnRcd29ya3NwYWNlc1xzY2FsYV93b3Jrc3BhY2VcY2FsY3VsYXRvclx3ZWItdWlcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPWmKWcx5jRi57xSa0EmNIQ8cyAC
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBSyflxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA8DT5F0AAZub3RpZnlzcQB+AAw36CLWdAAYdHdlZXRSZW1haW5pbmdDaGFyc0NvdW50c3EAfgAM1a3kwXQABHdhaXRzcQB+AAxdgwScdAANJGFzSW5zdGFuY2VPZnNxAH4ADFkburh0AAZlcXVhbHNzcQB+AAytaFxZdAAMYXNJbnN0YW5jZU9mc3EAfgAM3f93o3QAG2NvbG9yRm9yUmVtYWluaW5nQ2hhcnNDb3VudHNxAH4ADL4frMB0AAxzeW5jaHJvbml6ZWRzcQB+AAzJlZiHdAANJGlzSW5zdGFuY2VPZnNxAH4ADLHPOyp0AA5NYXhUd2VldExlbmd0aHNxAH4ADK6d1K50AAlub3RpZnlBbGxzcQB+AAweJIi7dAAMaXNJbnN0YW5jZU9mc3EAfgAMS2PSM3QAAj09c3EAfgAMUvHWCXQABWNsb25lc3EAfgAMUPlgdXQACHRvU3RyaW5nc3EAfgAMhoLzeHQAAiE9c3EAfgAME9cqH3QAC3R3ZWV0TGVuZ3Roc3EAfgAM/6oAanQACGdldENsYXNzc3EAfgAMc3grUXQAAm5lc3EAfgAMUmNoF3QAC1R3ZWV0TGVuZ3Roc3EAfgAM+ob0c3QAAmVxc3EAfgAMojAZlHQAAiMjc3EAfgAMvYw0D3QACGZpbmFsaXplc3EAfgAMX8mu+3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFmNhbGN1bGF0b3IuVHdlZXRMZW5ndGh1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZnNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVulk//B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABVQzpcZGV2ZWxvcG1lbnRcd29ya3NwYWNlc1xzY2FsYV93b3Jrc3BhY2VcY2FsY3VsYXRvclx3ZWItdWlcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMG/hPYPrBzWHxF4aBVJO+ftg2uI
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBf74T9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJSW6lZ0AAZub3RpZnlzcQB+AAychWa8dAASZWxlbWVudFZhbHVlU2lnbmFsc3EAfgAMYTr6+3QACXBhcnNlRXhwcnNxAH4ADMJVWLR0ABdzZXR1cDJuZE9yZGVyUG9seW5vbWlhbHNxAH4ADELWSap0AAR3YWl0c3EAfgAMWHI9jXQADSRhc0luc3RhbmNlT2ZzcQB+AAy4U5qjdAAGZXF1YWxzc3EAfgAMvkEXPHQADGFzSW5zdGFuY2VPZnNxAH4ADBCS2J10AAxzeW5jaHJvbml6ZWRzcQB+AAzHQ/r5dAANJGlzSW5zdGFuY2VPZnNxAH4ADIHV9Ft0ABJkb3VibGVWYWx1ZU9mSW5wdXRzcQB+AAzXvsB+dAAEbWFpbnNxAH4ADDMh20p0AAlub3RpZnlBbGxzcQB+AAzcJIpLdAAMaXNJbnN0YW5jZU9mc3EAfgAMCY/3fnQAEnNldHVwVHdlZXRNZWFzdXJlcnNxAH4ADOYXZ5J0ABN0ZXh0QXJlYVZhbHVlU2lnbmFsc3EAfgAMgxl1PXQADENhbGN1bGF0b3JVSXNxAH4ADHrOkEZ0AAI9PXNxAH4ADJHPxjx0AAVjbG9uZXNxAH4ADN8nd2J0AA9zZXR1cENhbGN1bGF0b3JzcQB+AAyG/ri9dAALZXhwck9mSW5wdXRzcQB+AAzkgc6wdAAIdG9TdHJpbmdzcQB+AAwOBXURdAACIT1zcQB+AAyaZGAZdAAQaW5wdXRWYWx1ZVNpZ25hbHNxAH4ADK31QRt0AAhnZXRDbGFzc3NxAH4ADB2ENkN0AAtlbGVtZW50QnlJZHNxAH4ADDdtlt10ABNDbGVhckNzc0NsYXNzUmVnRXhwc3EAfgAMUA6LCnQAAm5lc3EAfgAMsqyKXXQAAmVxc3EAfgAM2bHIpHQAFiRqcyRleHBvcnRlZCRtZXRoJG1haW5zcQB+AAyFisyXdAACIyNzcQB+AAxyiSI4dAAIZmluYWxpemVzcQB+AAwhWNWDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY2FsY3VsYXRvci5DYWxjdWxhdG9yVUl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgByeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHpzcQB+AHEBdXEAfgBUAAAAAHBzcQB+AHEBdXEAfgBUAAAAAHBzcQB+AHEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB5dAAFSlNBcHBzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3EAfgCSdAAHc2NhbGFqc3NxAH4AknQAAmpzc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJNzcQB+AIZ0AAZPYmplY3RzcQB+AIpzcQB+AI11cQB+AJAAAAADc3EAfgCSdAAEamF2YXNxAH4AknQABGxhbmdxAH4Am3NxAH4AhnQAA0FueXNxAH4AinNxAH4AjXVxAH4AkAAAAAJzcQB+AJJxAH4AlXEAfgCbcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFW5vZhvHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFVDOlxkZXZlbG9wbWVudFx3b3Jrc3BhY2VzXHNjYWxhX3dvcmtzcGFjZVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUoMGXqs60ywQh5jiIm/YED4KIcY=
+external apis:
+0 items
+source infos:
+5 items
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Calculator.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Polynomial.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\Signal.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\calculator\src\main\scala\calculator\TweetLength.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub2Ybx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub6l7J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub7a4J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub8D+V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub9DGB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub+QuN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub+vEN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVub/1al1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVucBngV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVucCAwR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVucCrLR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVucEERR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVucIFB91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVulk//B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVut+/cp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVuuBQ151cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

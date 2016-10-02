@@ -1,0 +1,19 @@
+ 
+def wordOccurrences(w: Word): Occurrences = w.toList.sortWith(_ < _).reduceLeft((str1,str2) => str1+str2).groupBy(c => c).map({case (c, list) => (c -> list.length)})
+
+(toList)
+
+
+
+  def sentenceOccurrences(s: Sentence): Occurrences = wordOccurrences(s.reduceLeft((str1,str2) => str1+str2))
+  
+We can concatenate the words of the sentence into a single word and then reuse the method `wordOccurrences` that we already have.
+
+
+
+
+ lazy val dictionaryByOccurrences: Map[Occurrences, List[Word]] = dictionary.map(word=>(wordOccurrences(word),word)).
+  groupBy(x=>x._1).mapValues(listOfWords => listOfWords.map(wordPair => wordPair._2).toList) 
+  
+  
+  def wordAnagrams(word: Word): List[Word] = dictionaryByOccurrences.get(wordOccurrences(word))

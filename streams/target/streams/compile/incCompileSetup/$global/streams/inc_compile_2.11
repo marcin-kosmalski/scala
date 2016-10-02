@@ -1,0 +1,660 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+69 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\common\package$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\common\package.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$InfiniteLevel$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$Level.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$Level0$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$Level1$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$delayedInit$body.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Block$$anonfun$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Block$$anonfun$legalNeighbors$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Block$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Block.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Down$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Left$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Move.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Pos$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Pos.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Right$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Up$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$class.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\InfiniteTerrain$$anonfun$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\InfiniteTerrain$class.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\InfiniteTerrain.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$2.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$3.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$4$$anonfun$apply$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$4$$anonfun$apply$2.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$4.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$5$$anonfun$apply$3.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$5$$anonfun$apply$4.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$5$$anonfun$apply$5.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$5.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$from$1$$anonfun$apply$6.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$from$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$solution$1$$anonfun$apply$7.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$solution$1$$anonfun$apply$8.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$solution$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Empty$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Empty.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Fill$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Fill.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Move.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Path.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Pour$.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Pour.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$2.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$3.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$from$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$newNeighborsOnly$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$newNeighborsOnly$2.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$newNeighborsOnly$3.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$2.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$3.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$class.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$1$$anonfun$apply$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$1$$anonfun$apply$2.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$terrainFunction$1.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$class.class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain.class
+binary dependencies:
+14 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+6 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala
+inheritance external dependencies:
+0 items
+class names:
+69 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> common.package
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> common.package$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$InfiniteLevel$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$Level
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$Level0$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$Level1$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$delayedInit$body
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Block
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Block$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Block$$anonfun$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Block$$anonfun$legalNeighbors$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Down$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Left$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Move
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Pos
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Pos$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Right$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Up$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> streams.InfiniteTerrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> streams.InfiniteTerrain$$anonfun$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> streams.InfiniteTerrain$class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$3
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$4
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$4$$anonfun$apply$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$4$$anonfun$apply$2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$5
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$5$$anonfun$apply$3
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$5$$anonfun$apply$4
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$5$$anonfun$apply$5
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$from$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$from$1$$anonfun$apply$6
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$solution$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$solution$1$$anonfun$apply$7
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$$anonfun$solution$1$$anonfun$apply$8
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$Empty
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$Empty$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$Fill
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$Fill$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$Move
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$Path
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$Pour
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams.Pouring$Pour$
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$3
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$from$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$newNeighborsOnly$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$newNeighborsOnly$2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$newNeighborsOnly$3
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$pathsToGoal$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$pathsToGoal$2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$pathsToGoal$3
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams.Solver$class
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$1$$anonfun$apply$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$1$$anonfun$apply$2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$class
+used names:
+325 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> ::
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> <init>
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> <repeated>
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> Any
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> AnyRef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> File
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> FileInputStream
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> InputStream
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> List
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> None
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> Nothing
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> Option
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> Predef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> String
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> _root_
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> child
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> children
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> classesDir
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> common
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> exists
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> file
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> foldLeft
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> getClass
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> getParentFile
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> getResource
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> io
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> java
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> package
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> projectDir
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> resourceFile
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> resourcePath
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> subFile
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> toURI
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> <init>
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> App
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> Bloxorz
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> InfiniteLevel
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> InfiniteTerrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> Level
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> Level0
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> Level1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> Predef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> Solver
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> StringParserTerrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> augmentString
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> goal
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> level
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> println
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> solution
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> startPos
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> streams
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> stripMargin
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> &&
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> +
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> <=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> <init>
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> ==
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> AbstractFunction2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> AnyRef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Block
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Boolean
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Down
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Function1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> GameDef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Int
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Left
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> List
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Move
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> None
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Pos
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Predef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Product
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Right
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> ScalaRunTime
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Serializable
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Statics
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Terrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Tuple2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> Up
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> _1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> _hashCode
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> _root_
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> _toString
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> apply
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> asInstanceOf
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> b1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> b2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> d
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> d1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> d2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> down
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> dx
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> dy
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> eq
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> filter
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> finalizeHash
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> immutable
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> isInstanceOf
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> isLegal
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> isStanding
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> left
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> mix
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> neighbors
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> p
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> package
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> require
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> right
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> runtime
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> startPos
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> streams
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> terrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> toString
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> typedProductIterator
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> up
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> x
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> x$1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> x$2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> y
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> ||
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> GameDef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> InfiniteTerrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> Pos
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> Terrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> streams
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> terrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> !=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> #::
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> &&
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> +
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> ++
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> -
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> ::
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> <init>
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> ==
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> AbstractFunction1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> AbstractFunction2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> AnyRef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Empty
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Fill
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> IndexedSeq
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Int
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> List
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Move
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Nil
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> None
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Path
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Pour
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Pouring
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Predef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Product
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> ScalaRunTime
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Serializable
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Set
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> State
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Statics
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Stream
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> Vector
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> _toString
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> amount
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> apply
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> asInstanceOf
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> canBuildFrom
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> capacity
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> change
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> consWrapper
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> contains
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> empty
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> endState
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> eq
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> explored
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> extend
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> finalizeHash
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> flatMap
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> from
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> g
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> glass
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> glasses
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> history
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> immutable
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> initialPath
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> initialState
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> intWrapper
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> isEmpty
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> isInstanceOf
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> length
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> map
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> min
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> mix
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> mkString
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> more
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> move
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> moves
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> next
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> package
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> path
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> pathSet
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> pathSets
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> paths
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> reverse
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> runtime
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> state
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> streams
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> target
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> to
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> toString
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> typedProductIterator
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> unary_!
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> until
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> updated
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> withFilter
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> ||
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> $conforms
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> &
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> &&
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> ++
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> :::
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> <init>
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> ==
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> >
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Block
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Boolean
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> GameDef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> List
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Move
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Nil
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Predef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Set
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Solver
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Stream
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> Tuple2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> _1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> _2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> apply
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> b
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> b1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> b2
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> block
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> canBuildFrom
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> contains
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> explored
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> flatten
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> from
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> goal
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> history
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> i
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> immutable
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> initial
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> legalNeighbors
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> list
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> map
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> move
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> moves
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> ne
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> neighbors
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> neighborsWithHistory
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> newInitial
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> newNeighborsOnly
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> package
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> pathsFromStart
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> pathsToGoal
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> size
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> startBlock
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> streams
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> toStream
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> unary_!
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> unchecked
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> withFilter
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> x
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> y
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> !=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> &&
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> ==
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> >
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> >=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> Array
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> Boolean
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> Char
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> ClassTag
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> Function1
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> GameDef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> IndexedSeq
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> Pos
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> Predef
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> String
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> StringParserTerrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> Terrain
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> Vector
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> _root_
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> apply
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> c
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> canBuildFrom
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> findChar
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> flatMap
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> head
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> i
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> immutable
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> intWrapper
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> isEmpty
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> j
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> level
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> levelVector
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> map
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> materializeClassTag
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> package
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> pos
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> posList
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> refArrayOps
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> scala
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> size
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> split
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> str
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> streams
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> terrainFunction
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> unary_!
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> until
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> vector
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> withFilter
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> wrapString
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> x
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> y
+product stamps:
+69 items
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1472236412581)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\common\package$.class -> lastModified(1472236412573)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\common\package.class -> lastModified(1472236412489)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$.class -> lastModified(1472236412599)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$delayedInit$body.class -> lastModified(1472236412659)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$InfiniteLevel$.class -> lastModified(1472236412626)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$Level.class -> lastModified(1472236412650)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$Level0$.class -> lastModified(1472236412653)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz$Level1$.class -> lastModified(1472236412656)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Bloxorz.class -> lastModified(1472236412589)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Block$$anonfun$1.class -> lastModified(1472236412693)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Block$$anonfun$legalNeighbors$1.class -> lastModified(1472236412697)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Block$.class -> lastModified(1472236412671)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Block.class -> lastModified(1472236412690)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$class.class -> lastModified(1472236412736)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Down$.class -> lastModified(1472236412702)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Left$.class -> lastModified(1472236412706)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Move.class -> lastModified(1472236412710)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Pos$.class -> lastModified(1472236412714)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Pos.class -> lastModified(1472236412724)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Right$.class -> lastModified(1472236412728)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef$Up$.class -> lastModified(1472236412733)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\GameDef.class -> lastModified(1472236412665)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\InfiniteTerrain$$anonfun$1.class -> lastModified(1472236412742)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\InfiniteTerrain$class.class -> lastModified(1472236412744)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\InfiniteTerrain.class -> lastModified(1472236412739)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$1.class -> lastModified(1472236412759)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$2.class -> lastModified(1472236412763)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$3.class -> lastModified(1472236412766)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$4$$anonfun$apply$1.class -> lastModified(1472236412773)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$4$$anonfun$apply$2.class -> lastModified(1472236412777)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$4.class -> lastModified(1472236412770)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$5$$anonfun$apply$3.class -> lastModified(1472236412784)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$5$$anonfun$apply$4.class -> lastModified(1472236412788)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$5$$anonfun$apply$5.class -> lastModified(1472236412791)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$5.class -> lastModified(1472236412781)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$from$1$$anonfun$apply$6.class -> lastModified(1472236412799)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$from$1.class -> lastModified(1472236412796)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$solution$1$$anonfun$apply$7.class -> lastModified(1472236412806)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$solution$1$$anonfun$apply$8.class -> lastModified(1472236412810)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$$anonfun$solution$1.class -> lastModified(1472236412803)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Empty$.class -> lastModified(1472236412821)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Empty.class -> lastModified(1472236412817)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Fill$.class -> lastModified(1472236412826)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Fill.class -> lastModified(1472236412832)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Move.class -> lastModified(1472236412835)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Path.class -> lastModified(1472236412838)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Pour$.class -> lastModified(1472236412843)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring$Pour.class -> lastModified(1472236412850)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Pouring.class -> lastModified(1472236412756)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$1.class -> lastModified(1472236412860)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$2.class -> lastModified(1472236412863)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$3.class -> lastModified(1472236412867)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$from$1.class -> lastModified(1472236412870)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$newNeighborsOnly$1.class -> lastModified(1472236412874)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$newNeighborsOnly$2.class -> lastModified(1472236412878)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$newNeighborsOnly$3.class -> lastModified(1472236412881)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$1.class -> lastModified(1472236412885)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$2.class -> lastModified(1472236412889)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$3.class -> lastModified(1472236412892)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver$class.class -> lastModified(1472236412899)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\Solver.class -> lastModified(1472236412854)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$1$$anonfun$apply$1.class -> lastModified(1472236412911)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$1$$anonfun$apply$2.class -> lastModified(1472236412915)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$1.class -> lastModified(1472236412908)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class -> lastModified(1472236412918)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$terrainFunction$1.class -> lastModified(1472236412922)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain$class.class -> lastModified(1472236412928)
+C:\development\workspaces\scala_workspace\streams\target\scala-2.11\classes\streams\StringParserTerrain.class -> lastModified(1472236412903)
+source stamps:
+7 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> hash(72ffadbc2ded46154472eb0741d8493c909aa02f)
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> hash(471b7e8da55e1d760e5ac20f71c895318c08626b)
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> hash(bb43830f6c61b8ab29553af959146eb9d8850dff)
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> hash(6855154d3fffea149e987c65453c00f12e79d6a6)
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> hash(9c5a505dcd92e79e701d738643fd8af334144ac3)
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> hash(dc5e7422f3ddbea0e374ea073af4fbf935e3ced7)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> lastModified(1471897651971)
+C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> java.lang.Object
+C:\Users\marcin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.collection.immutable.IndexedSeq$
+internal apis:
+7 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWyCC/BXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEtDOlxkZXZlbG9wbWVudFx3b3Jrc3BhY2VzXHNjYWxhX3dvcmtzcGFjZVxzdHJlYW1zXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC3rCbVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAATnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFtRjxZ0AARkb3duc3EAfgAMEWMC33QABm5vdGlmeXNxAH4ADAgaBWl0AAd1bmFwcGx5c3EAfgAMrnJIqXQAB2N1cnJpZWRzcQB+AAx8tPJcdAAFTGV2ZWxzcQB+AAwTP9m8dAABeHNxAH4ADBJFKlh0AAR3YWl0c3EAfgAMs4p91HQAAmIyc3EAfgAMZP7qXnQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAM9PAMGHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM1xqqZ3QADSRhc0luc3RhbmNlT2ZzcQB+AAwykKc+dAACZHlzcQB+AAwo4QXidAAQbmV3TmVpZ2hib3JzT25seXNxAH4ADIQRBCF0AAZMZXZlbDBzcQB+AAyAG1D+dAAMcHJvZHVjdEFyaXR5c3EAfgAM1mk9W3QADnBhdGhzRnJvbVN0YXJ0c3EAfgAMUdQE93QABmVxdWFsc3NxAH4ADIBy1oJ0AAF5c3EAfgAMNkp6THQAAnVwc3EAfgAMl5oyxHQAB0Jsb3hvcnpzcQB+AAygdC3RdAAMYXNJbnN0YW5jZU9mc3EAfgAMeCmWpXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMHVUz1HQACW5laWdoYm9yc3NxAH4ADM9i8Ch0AAxzeW5jaHJvbml6ZWRzcQB+AAy/qnjqdAAEbGVmdHNxAH4ADJxEZjN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMHadMeXQABnR1cGxlZHNxAH4ADCQY8At0AARnb2Fsc3EAfgAMB8UEsXQAAmIxc3EAfgAM+7kE3nQACGNhbkVxdWFsc3EAfgAMsdIUxHQABG1haW5zcQB+AAxGBu+ldAAPdGVycmFpbkZ1bmN0aW9uc3EAfgAMTSe6k3QADXByb2R1Y3RQcmVmaXhzcQB+AAz5MfdMdAAGTGV2ZWwxc3EAfgAMmqMr7nQACW5vdGlmeUFsbHNxAH4ADFzei390AAtyZWFkUmVzb2x2ZXNxAH4ADMdfmlh0AAxpc0luc3RhbmNlT2ZzcQB+AAxT5exhdAAIc29sdXRpb25zcQB+AAwVwUsAdAAGPGluaXQ+c3EAfgAM7R0aIXQABE1vdmVzcQB+AAwoNaaHdAAFYXBwbHlzcQB+AAw8DsV7dAACPT1zcQB+AAw4Zq6EdAAERG93bnNxAH4ADBwMvvJ0AARMZWZ0c3EAfgAMYC6S6nQABWNsb25lc3EAfgAM69Te23QAB3RlcnJhaW5zcQB+AAzd9zihdAALcGF0aHNUb0dvYWxzcQB+AAwsSkU2dAAEZnJvbXNxAH4ADOotF+d0AAdpc0xlZ2Fsc3EAfgAMgZ9v8XQACnN0YXJ0QmxvY2tzcQB+AAzvRBsJdAAKaXNTdGFuZGluZ3NxAH4ADHgsITp0AAJVcHNxAH4ADKXW6yJ0AARjb3B5c3EAfgAMb5qiLHQABGRvbmVzcQB+AAxePmqQdAAIdG9TdHJpbmdzcQB+AAx2Dd35dAAEYXJnc3NxAH4ADB8zUyF0AAhmaW5kQ2hhcnNxAH4ADOoNkot0AA1JbmZpbml0ZUxldmVsc3EAfgAMRA53NnQAA1Bvc3NxAH4ADEFN3gJ0AAIhPXNxAH4ADDm6s2J0AAhnZXRDbGFzc3NxAH4ADMV6mWt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADFkzoId0AAJkeHNxAH4ADAhINjt0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADCfexMB0AAdUZXJyYWluc3EAfgAMPNnO73QAAm5lc3EAfgAMhlw+RnQACHN0YXJ0UG9zc3EAfgAMEcg+4nQABUJsb2Nrc3EAfgAMz9EiE3QABVJpZ2h0c3EAfgAMeSFijHQAAmVxc3EAfgAMdpLJb3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADGT5L1F0AAVyaWdodHNxAH4ADIk0KBh0AAtkZWxheWVkSW5pdHNxAH4ADDcNim50AAIjI3NxAH4ADGA+95d0AAhmaW5hbGl6ZXNxAH4ADFt025l0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKh4/st0AAhoYXNoQ29kZXNxAH4ADMPZYsB0AAVsZXZlbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ALN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA9zdHJlYW1zLkJsb3hvcnp1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDOeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDNAHBzcQB+ANJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4As0wACWluaGVyaXRlZHEAfgCzTAAHcGFyZW50c3EAfgCzeHEAfgDWc3EAfgDNAHBzcQB+ANJ1cQB+AK4AAAAAc3EAfgDNAHBzcQB+ANJ1cQB+AK4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ALRxAH4AvXVxAH4AvgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AON4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4A1XQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDVc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgD9c3EAfgDAAHEAfgBLdXEAfgDDAAAAAHNxAH4A8HQABFVuaXRxAH4A9nVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AON4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AMZ0AAVQbGFpbnEAfgB9c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDVc3EAfgDwdAAFQXJyYXlxAH4A9nVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDwdAAGU3RyaW5nc3EAfgD0c3EAfgD3dXEAfgD6AAAAA3NxAH4A/HQABGphdmFzcQB+APx0AARsYW5ncQB+AQFzcQB+AM0AcHNxAH4A0nVxAH4BGAAAAARzcQB+APB0AANBcHBxAH4A9nNxAH4A8HQAC0RlbGF5ZWRJbml0cQB+APZzcQB+APB0AAZPYmplY3RxAH4BHHNxAH4A8HQAA0FueXEAfgD2dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVsggvwV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLQzpcZGV2ZWxvcG1lbnRcd29ya3NwYWNlc1xzY2FsYV93b3Jrc3BhY2Vcc3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcv+tvC3tRhVEcusHQdhJPJCaoC8=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCzjSghAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFlVlFN0AARkb3duc3EAfgAMvdJppnQABm5vdGlmeXNxAH4ADJcH+gt0AAd1bmFwcGx5c3EAfgAM2YYck3QAB2N1cnJpZWRzcQB+AAyD6c5edAABeHNxAH4ADBPgvq10AAdHYW1lRGVmc3EAfgAM7Df443QABHdhaXRzcQB+AAwKRO0bdAACYjJzcQB+AAwo6ULbdAAObGVnYWxOZWlnaGJvcnNzcQB+AAxNio2WdAAOY29weSRkZWZhdWx0JDJzcQB+AAyEyB9ddAANJGFzSW5zdGFuY2VPZnNxAH4ADJ3VVr90AAJkeXNxAH4ADNUkMQB0AAxwcm9kdWN0QXJpdHlzcQB+AAyODHg1dAAGZXF1YWxzc3EAfgAMWVC9GnQAAXlzcQB+AAxNWe4sdAACdXBzcQB+AAzwYvu0dAAMYXNJbnN0YW5jZU9mc3EAfgAMQKcRLXQACW5laWdoYm9yc3NxAH4ADIbMNrJ0AAxzeW5jaHJvbml6ZWRzcQB+AAyKNMe1dAAEbGVmdHNxAH4ADNPVQ4d0AA0kaXNJbnN0YW5jZU9mc3EAfgAM08k/N3QABnR1cGxlZHNxAH4ADOrNJQZ0AARnb2Fsc3EAfgAMs46yoXQAAmIxc3EAfgAMdshuMHQACGNhbkVxdWFsc3EAfgAMI/EFUHQADXByb2R1Y3RQcmVmaXhzcQB+AAyLhkh8dAAJbm90aWZ5QWxsc3EAfgAMyDn7U3QAC3JlYWRSZXNvbHZlc3EAfgAMhPHN43QADGlzSW5zdGFuY2VPZnNxAH4ADDlZ9Wh0AAY8aW5pdD5zcQB+AAzn/0dpdAAETW92ZXNxAH4ADBrWiP10AAVhcHBseXNxAH4ADKK9Wvt0AAI9PXNxAH4ADAQUrnl0AAREb3duc3EAfgAMO1PkinQABExlZnRzcQB+AAwdgMdIdAAFY2xvbmVzcQB+AAwFamkOdAAHdGVycmFpbnNxAH4ADC0HUs50AAYkaW5pdCRzcQB+AAwArlCadAAHaXNMZWdhbHNxAH4ADCuz9gt0AApzdGFydEJsb2Nrc3EAfgAMTwgz4HQACmlzU3RhbmRpbmdzcQB+AAy5kB8cdAACVXBzcQB+AAxOtzCHdAAEY29weXNxAH4ADC2x1rV0AAh0b1N0cmluZ3NxAH4ADEAiZh50AANQb3NzcQB+AAwUlQEjdAACIT1zcQB+AAwkFslTdAAIZ2V0Q2xhc3NzcQB+AAzNaSfIdAAOY29weSRkZWZhdWx0JDFzcQB+AAxfnoQbdAACZHhzcQB+AAyieO1OdAAHVGVycmFpbnNxAH4ADIy85Ll0AAJuZXNxAH4ADJUJ0n10AAhzdGFydFBvc3NxAH4ADMvT7L90AAVCbG9ja3NxAH4ADB75LzZ0AAVSaWdodHNxAH4ADObBo1t0AAJlcXNxAH4ADFoemSx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAz+eouNdAAFcmlnaHRzcQB+AAyXRFAOdAACIyNzcQB+AAzMnDtwdAAIZmluYWxpemVzcQB+AAwMZeNXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzsJlyFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAPc3RyZWFtcy5HYW1lRGVmdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCqeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCpAHBzcQB+AK5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AkUwACWluaGVyaXRlZHEAfgCRTAAHcGFyZW50c3EAfgCReHEAfgCyc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AM50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM9zcQB+AMJ0AANBbnlzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOdAAFc2NhbGFxAH4A1XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVbIIL8FdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEcbfo2lXh12DlrCD3HIlTGMCGJr
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCRNzIlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJif0hJ0AARkb3duc3EAfgAM7VYiKHQABm5vdGlmeXNxAH4ADPcLAUp0AAd1bmFwcGx5c3EAfgAMYSyYAXQAB2N1cnJpZWRzcQB+AAyGhdM2dAABeHNxAH4ADC++G+B0AAR3YWl0c3EAfgAMkfE+vnQAAmIyc3EAfgAMXQZ82XQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMQvc1RHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMy4Bu4XQADSRhc0luc3RhbmNlT2ZzcQB+AAy98Zu+dAACZHlzcQB+AAx6Fc0MdAAMcHJvZHVjdEFyaXR5c3EAfgAMlcfm3HQABmVxdWFsc3NxAH4ADD/QVj50AAF5c3EAfgAMIENB9XQAAnVwc3EAfgAMFa5bXHQAD0luZmluaXRlVGVycmFpbnNxAH4ADPv55/F0AAxhc0luc3RhbmNlT2ZzcQB+AAwBz3Y2dAAJbmVpZ2hib3Jzc3EAfgAMSOQ90nQADHN5bmNocm9uaXplZHNxAH4ADFUF9uB0AARsZWZ0c3EAfgAM72U26nQADSRpc0luc3RhbmNlT2ZzcQB+AAwCR2jQdAAGdHVwbGVkc3EAfgAMGVsQfnQABGdvYWxzcQB+AAxZvGj5dAACYjFzcQB+AAySz6IcdAAIY2FuRXF1YWxzcQB+AAySOcfCdAANcHJvZHVjdFByZWZpeHNxAH4ADPpEyQ90AAlub3RpZnlBbGxzcQB+AAxI4fkpdAALcmVhZFJlc29sdmVzcQB+AAymiD1GdAAMaXNJbnN0YW5jZU9mc3EAfgAMxyoSjXQABjxpbml0PnNxAH4ADHrZ6+t0AARNb3Zlc3EAfgAMurek3nQABWFwcGx5c3EAfgAMwOFmL3QAAj09c3EAfgAM0ejxGnQABERvd25zcQB+AAyj0KvWdAAETGVmdHNxAH4ADKI2dEZ0AAVjbG9uZXNxAH4ADDlB3ht0AAd0ZXJyYWluc3EAfgAMyApaJXQABiRpbml0JHNxAH4ADKp8mUF0AAdpc0xlZ2Fsc3EAfgAMgRjmE3QACnN0YXJ0QmxvY2tzcQB+AAwwnQsVdAAKaXNTdGFuZGluZ3NxAH4ADM+vBPV0AAJVcHNxAH4ADCIhANt0AARjb3B5c3EAfgAMmHL2VXQACHRvU3RyaW5nc3EAfgAMDvd9n3QAA1Bvc3NxAH4ADOilu5h0AAIhPXNxAH4ADD6/97R0AAhnZXRDbGFzc3NxAH4ADGhPiPV0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADL+rtO90AAJkeHNxAH4ADBBpLyx0AAdUZXJyYWluc3EAfgAMCWTOt3QAAm5lc3EAfgAM89LEbnQACHN0YXJ0UG9zc3EAfgAM7OdJgnQABUJsb2Nrc3EAfgAMLnzBknQABVJpZ2h0c3EAfgAMsirCR3QAAmVxc3EAfgAMHoDz8HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHwBVd10AAVyaWdodHNxAH4ADL44HpR0AAIjI3NxAH4ADJU+P350AAhmaW5hbGl6ZXNxAH4ADM6Mrfd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADBRhPZx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABdzdHJlYW1zLkluZmluaXRlVGVycmFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aqnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AqQBwc3EAfgCuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJFMAAlpbmhlcml0ZWRxAH4AkUwAB3BhcmVudHNxAH4AkXhxAH4AsnNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCxdAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AsXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDPc3EAfgDCdAAGT2JqZWN0c3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznQABGphdmFzcQB+AM50AARsYW5ncQB+ANNzcQB+AMJ0AANBbnlzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOdAAFc2NhbGFxAH4A03VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVbIIL8FdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLtDgw9sYbirKVU6+VkUbrnYhQ3/
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAP0GijAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHDT4bB0AAZub3RpZnlzcQB+AAzucOb5dAAHdW5hcHBseXNxAH4ADO+Hqv10AAdjdXJyaWVkc3EAfgAMQalv6XQABHdhaXRzcQB+AAz7JimBdAAOY29weSRkZWZhdWx0JDJzcQB+AAwgzxlVdAANJGFzSW5zdGFuY2VPZnNxAH4ADIRySvJ0AAdjb21wb3Nlc3EAfgAMZtsoeXQAC2luaXRpYWxQYXRoc3EAfgAMb2W3vHQADHByb2R1Y3RBcml0eXNxAH4ADPBJeyl0AAZlcXVhbHNzcQB+AAyTzPU7dAAEUGF0aHNxAH4ADMl3qvN0AAxhc0luc3RhbmNlT2ZzcQB+AAxijV6zdAAFbW92ZXNzcQB+AAyTFKe2dAAMc3luY2hyb25pemVkc3EAfgAMaNBDU3QADSRpc0luc3RhbmNlT2ZzcQB+AAz4G1rWdAAERmlsbHNxAH4ADAShRYd0AAdhbmRUaGVuc3EAfgAMJfOjLHQABnR1cGxlZHNxAH4ADITC/Nh0AAhlbmRTdGF0ZXNxAH4ADNYh5Wp0AAhjYW5FcXVhbHNxAH4ADOIZVC50AA1wcm9kdWN0UHJlZml4c3EAfgAM/b4n93QABmV4dGVuZHNxAH4ADPwjA6N0AAlub3RpZnlBbGxzcQB+AAygTgC/dAALcmVhZFJlc29sdmVzcQB+AAxtJ8kedAACdG9zcQB+AAx2ESrOdAAMaXNJbnN0YW5jZU9mc3EAfgAMK2cgrnQACHNvbHV0aW9uc3EAfgAMhinBE3QADGluaXRpYWxTdGF0ZXNxAH4ADJArapd0AAZjaGFuZ2VzcQB+AAyCWg+wdAAGPGluaXQ+c3EAfgAMTgSK5nQABE1vdmVzcQB+AAzuq6rodAAFYXBwbHlzcQB+AAzNsDFDdAAFRW1wdHlzcQB+AAzziRBcdAACPT1zcQB+AAzOGN5QdAAHUG91cmluZ3NxAH4ADHr8JBt0AAVjbG9uZXNxAH4ADOgIuE50AARmcm9tc3EAfgAMdHi5CnQACHBhdGhTZXRzc3EAfgAMAhOo33QABGNvcHlzcQB+AAw/0PRLdAAIdG9TdHJpbmdzcQB+AAw2rzE8dAACIT1zcQB+AAxihFYBdAAIZ2V0Q2xhc3NzcQB+AAyQTn7bdAAHZ2xhc3Nlc3NxAH4ADPUfAvt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADDY5dVx0AAVTdGF0ZXNxAH4ADIT6rFt0AAVnbGFzc3NxAH4ADGowU9x0AAJuZXNxAH4ADDjwuTB0AAJlcXNxAH4ADNEWyNl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyO1qTjdAACIyNzcQB+AAwXt6RAdAAIZmluYWxpemVzcQB+AAz/dH4YdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzjMA5UdAAIaGFzaENvZGVzcQB+AAzB88vOdAAEUG91cnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA9zdHJlYW1zLlBvdXJpbmd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AJx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJsAcHNxAH4AoHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AKRzcQB+AJsAcHNxAH4AoHVxAH4AfgAAAABzcQB+AJsAcHNxAH4AoHVxAH4AfgAAAABzcQB+AJsAcHNxAH4AoHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ao3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ao3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AwHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AwXNxAH4AtHQAA0FueXNxAH4AuHNxAH4Au3VxAH4AvgAAAAJzcQB+AMB0AAVzY2FsYXEAfgDHdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVsggvwV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLQzpcZGV2ZWxvcG1lbnRcd29ya3NwYWNlc1xzY2FsYV93b3Jrc3BhY2Vcc3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUaFUVTT//6hSemHxlRTwA8S551qY=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCHnwsYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHzfVeF0AARkb3duc3EAfgAMLlnRBXQABm5vdGlmeXNxAH4ADDA7eH10AAd1bmFwcGx5c3EAfgAMxuRtaXQAB2N1cnJpZWRzcQB+AAy6FS3DdAABeHNxAH4ADH42vf90AAR3YWl0c3EAfgAMCk1ZJ3QAAmIyc3EAfgAMLJsEz3QADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMVUu52HQADmNvcHkkZGVmYXVsdCQyc3EAfgAMu3JSPnQADSRhc0luc3RhbmNlT2ZzcQB+AAzRinD2dAACZHlzcQB+AAyM1ql+dAAQbmV3TmVpZ2hib3JzT25seXNxAH4ADNMPu/B0AAxwcm9kdWN0QXJpdHlzcQB+AAyCbZQMdAAOcGF0aHNGcm9tU3RhcnRzcQB+AAywsncjdAAGZXF1YWxzc3EAfgAMXjhZj3QAAXlzcQB+AAy5bHZRdAACdXBzcQB+AAwIL7V4dAAMYXNJbnN0YW5jZU9mc3EAfgAMGbF0CHQACW5laWdoYm9yc3NxAH4ADKgPIUZ0AAxzeW5jaHJvbml6ZWRzcQB+AAzZS3wjdAAEbGVmdHNxAH4ADJwQPop0AA0kaXNJbnN0YW5jZU9mc3EAfgAMlJg5jnQABnR1cGxlZHNxAH4ADAvwJ1l0AARnb2Fsc3EAfgAMRrmpsHQAAmIxc3EAfgAMmjQNlHQACGNhbkVxdWFsc3EAfgAMkygfDXQADXByb2R1Y3RQcmVmaXhzcQB+AAzszmjDdAAJbm90aWZ5QWxsc3EAfgAMPVGEsnQAC3JlYWRSZXNvbHZlc3EAfgAMZH3qb3QADGlzSW5zdGFuY2VPZnNxAH4ADECjDB90AAhzb2x1dGlvbnNxAH4ADJpPrJ10AAY8aW5pdD5zcQB+AAwxhcUQdAAETW92ZXNxAH4ADCKUTbd0AAVhcHBseXNxAH4ADIisaKt0AAI9PXNxAH4ADFSOxGF0AAREb3duc3EAfgAMLkUX+XQABExlZnRzcQB+AAz3sqU3dAAFY2xvbmVzcQB+AAyVt4hRdAAHdGVycmFpbnNxAH4ADH2STmh0AAtwYXRoc1RvR29hbHNxAH4ADLcAgoF0AARmcm9tc3EAfgAMxUbQvHQABiRpbml0JHNxAH4ADOM7ptV0AAdpc0xlZ2Fsc3EAfgAM+SXN2HQACnN0YXJ0QmxvY2tzcQB+AAzpjdGgdAAKaXNTdGFuZGluZ3NxAH4ADE+d59t0AAJVcHNxAH4ADCJvpa90AARjb3B5c3EAfgAMZo/vOXQABGRvbmVzcQB+AAzP9FX6dAAGU29sdmVyc3EAfgAMiY3iH3QACHRvU3RyaW5nc3EAfgAMt9iswHQAA1Bvc3NxAH4ADAbWzFh0AAIhPXNxAH4ADEJUnEB0AAhnZXRDbGFzc3NxAH4ADF19ICh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADH+PYWx0AAJkeHNxAH4ADAjpHWR0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADNaHNVR0AAdUZXJyYWluc3EAfgAMuOjMgnQAAm5lc3EAfgAMTQ+6P3QACHN0YXJ0UG9zc3EAfgAM3q4F43QABUJsb2Nrc3EAfgAM1Kxd7HQABVJpZ2h0c3EAfgAML+5hU3QAAmVxc3EAfgAM92feF3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJeJpzF0AAVyaWdodHNxAH4ADG0cw3J0AAIjI3NxAH4ADF7Q56t0AAhmaW5hbGl6ZXNxAH4ADDVCxdl0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKwgQO10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0AA5zdHJlYW1zLlNvbHZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AuHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AtwBwc3EAfgC8c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJ9MAAlpbmhlcml0ZWRxAH4An0wAB3BhcmVudHNxAH4An3hxAH4AwHNxAH4AtwBwc3EAfgC8dXEAfgCaAAAAAHNxAH4AtwBwc3EAfgC8dXEAfgCaAAAAAHNxAH4AtwBwc3EAfgC8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC/dAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Av3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDdc3EAfgDQdAAGT2JqZWN0c3EAfgDUc3EAfgDXdXEAfgDaAAAAA3NxAH4A3HQABGphdmFzcQB+ANx0AARsYW5ncQB+AOFzcQB+ANB0AANBbnlzcQB+ANRzcQB+ANd1cQB+ANoAAAACc3EAfgDcdAAFc2NhbGFxAH4A4XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVbIIL8FdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJxaUF3NkueecB1zhkP9ivM0FErD
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB07sIDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLVGtDN0AARkb3duc3EAfgAMX+sB43QABm5vdGlmeXNxAH4ADP3BfkV0AAd1bmFwcGx5c3EAfgAMtDxbCnQAB2N1cnJpZWRzcQB+AAxwigVhdAABeHNxAH4ADD4RsD50AAR3YWl0c3EAfgAM1fqh/XQAAmIyc3EAfgAM/lyHInQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAM82a11XQADmNvcHkkZGVmYXVsdCQyc3EAfgAMj1Zw0nQADSRhc0luc3RhbmNlT2ZzcQB+AAzaQda/dAACZHlzcQB+AAzQRxCqdAAMcHJvZHVjdEFyaXR5c3EAfgAMJ37PvHQABmVxdWFsc3NxAH4ADPivpT10AAF5c3EAfgAMJgldiHQAAnVwc3EAfgAMB+5/cXQADGFzSW5zdGFuY2VPZnNxAH4ADMIZrB10AAluZWlnaGJvcnNzcQB+AAzeYMUVdAAGdmVjdG9yc3EAfgAMCTIA/XQADHN5bmNocm9uaXplZHNxAH4ADAuVkjR0AARsZWZ0c3EAfgAMGnBqDHQADSRpc0luc3RhbmNlT2ZzcQB+AAzZ7qLndAAGdHVwbGVkc3EAfgAMop1MrHQABGdvYWxzcQB+AAx1kvjkdAACYjFzcQB+AAwoGsyBdAAIY2FuRXF1YWxzcQB+AAxJZMpzdAAPdGVycmFpbkZ1bmN0aW9uc3EAfgAMF7w3Q3QADXByb2R1Y3RQcmVmaXhzcQB+AAxdDwImdAAJbm90aWZ5QWxsc3EAfgAMaxu9e3QAC3JlYWRSZXNvbHZlc3EAfgAMNBPTfXQADGlzSW5zdGFuY2VPZnNxAH4ADAple290AAY8aW5pdD5zcQB+AAwd/4/fdAAETW92ZXNxAH4ADLZsYnp0AAVhcHBseXNxAH4ADCNWc8t0AAI9PXNxAH4ADP0v59B0AAREb3duc3EAfgAMtoQeMHQABExlZnRzcQB+AAzhbwbGdAAFY2xvbmVzcQB+AAwSpNqydAAHdGVycmFpbnNxAH4ADMrT1k90AAYkaW5pdCRzcQB+AAyKONAvdAAHaXNMZWdhbHNxAH4ADFlJ3PJ0AApzdGFydEJsb2Nrc3EAfgAMEnjrOnQACmlzU3RhbmRpbmdzcQB+AAwBvCtydAACVXBzcQB+AAxELzrAdAATU3RyaW5nUGFyc2VyVGVycmFpbnNxAH4ADJuwJLh0AARjb3B5c3EAfgAMA63IpnQACHRvU3RyaW5nc3EAfgAMRMNRz3QACGZpbmRDaGFyc3EAfgAM/jPmfXQAA1Bvc3NxAH4ADKdEIux0AAIhPXNxAH4ADIUWGqt0AAhnZXRDbGFzc3NxAH4ADB+6KiZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPjCmk10AAJkeHNxAH4ADBwvxbB0AAdUZXJyYWluc3EAfgAMKpPVsXQAAm5lc3EAfgAMyz8123QACHN0YXJ0UG9zc3EAfgAMzbTk9nQABUJsb2Nrc3EAfgAMLdnEsnQABVJpZ2h0c3EAfgAML662vXQAAmVxc3EAfgAMpaoC9HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADNvtN3N0AAVyaWdodHNxAH4ADIwbw7R0AAIjI3NxAH4ADF/eUYB0AAhmaW5hbGl6ZXNxAH4ADNTEdhB0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKYwVax0AAhoYXNoQ29kZXNxAH4ADBUN5MF0AAVsZXZlbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABtzdHJlYW1zLlN0cmluZ1BhcnNlclRlcnJhaW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ALJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALEAcHNxAH4AtnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCZTAAJaW5oZXJpdGVkcQB+AJlMAAdwYXJlbnRzcQB+AJl4cQB+ALpzcQB+ALEAcHNxAH4AtnVxAH4AlAAAAABzcQB+ALEAcHNxAH4AtnVxAH4AlAAAAABzcQB+ALEAcHNxAH4AtnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AuXQAB0dhbWVEZWZzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAB3N0cmVhbXNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A13NxAH4AynQABk9iamVjdHNxAH4AznNxAH4A0XVxAH4A1AAAAANzcQB+ANZ0AARqYXZhc3EAfgDWdAAEbGFuZ3EAfgDbc3EAfgDKdAADQW55c3EAfgDOc3EAfgDRdXEAfgDUAAAAAnNxAH4A1nQABXNjYWxhcQB+ANt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdzdHJlYW1zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWyCC/BXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEtDOlxkZXZlbG9wbWVudFx3b3Jrc3BhY2VzXHNjYWxhX3dvcmtzcGFjZVxzdHJlYW1zXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTcXnQi892+oON06gc69Pv5NePO1w==
+external apis:
+0 items
+source infos:
+7 items
+C:\development\workspaces\scala_workspace\streams\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Bloxorz.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\GameDef.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\InfiniteTerrain.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Pouring.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\Solver.scala -> 
+AAAAAAAAAAA=
+C:\development\workspaces\scala_workspace\streams\src\main\scala\streams\StringParserTerrain.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVsggvwV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XGRldmVsb3BtZW50XHdvcmtzcGFjZXNcc2NhbGFfd29ya3NwYWNlXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

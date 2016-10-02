@@ -1,0 +1,17 @@
+eclipse
+runMain reductions.ParallelCountChangeRunner
+eclipse
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.LineOfSightRunner
+submit marcin.kosmalski@gmail.com HUO9ZUYdwIzvWGg7
+submit marcin.kosmalski@gmail.com Pr7khghCAHMW0377
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.LineOfSightRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.LineOfSightRunner
+submit marcin.kosmalski@gmail.com PaLaI0v03D6vk90E
+submit marcin.kosmalski@gmail.com 7mFdGaG39J0IV3N6
+submit marcin.kosmalski@gmail.com PmS3aba13XKCYtdU
+submit marcin.kosmalski@gmail.com 4zzkqz8ybhKDFhGd

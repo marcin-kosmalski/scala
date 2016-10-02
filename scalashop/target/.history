@@ -1,0 +1,11 @@
+eclipse
+console
+ runMain scalashop.VerticalBoxBlurRunner
+runMain scalashop.HorizontalBoxBlurRunner
+ runMain scalashop.VerticalBoxBlurRunner
+cls
+ runMain scalashop.VerticalBoxBlurRunner
+runMain scalashop.HorizontalBoxBlurRunner
+runMain scalashop.ScalaShop
+submit marcin.kosmalski@gmail.co
+submit marcin.kosmalski@gmail.com H8OztcJ0A0oeDTLT

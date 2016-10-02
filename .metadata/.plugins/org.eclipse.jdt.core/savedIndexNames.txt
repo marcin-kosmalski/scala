@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\development\workspaces\scala_workspace\.metadata\.plugins\org.eclipse.jdt.core
+214171102.index
